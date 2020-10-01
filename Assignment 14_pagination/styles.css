@@ -1,0 +1,28 @@
+.head{
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+    color:black;
+    background-image: linear-gradient(rgb(67, 184, 21), rgb(176, 233, 171));
+    height: 40px;
+}
+.foot{
+   
+    height: 40px;
+    
+    margin-top: 500px;
+}
+
+.pagination {
+  display: inline;
+  font-weight: 900;
+}
+  
+.pagination1 {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    
+  }
+
+  
