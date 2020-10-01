@@ -1,0 +1,15 @@
+.si {
+   
+    align-content: stretch;
+    
+    height: 400px;
+}
+
+#colorid{
+    background-image: linear-gradient( gray, rgb(2, 236, 100));
+}
+
+
+#holly{
+    background-color: rgb(165, 167, 160);
+}
